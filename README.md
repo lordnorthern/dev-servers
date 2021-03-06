@@ -5,4 +5,4 @@ Currently:
   * Kibana
   * Redis
 
-*If compose fails, try increasing docker's available memory to 4gb*
+**If compose fails, try increasing docker's available memory to 4gb**
